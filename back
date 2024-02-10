@@ -1,0 +1,33 @@
+[33mcommit 32e5ea7d6405f1451a65e9f66b00ffeeee2ed6c9[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: balu <balusubbu806@gmail.com>
+Date:   Sat Jan 27 09:40:06 2024 +0530
+
+    i commited 2 files
+
+[1mdiff --git a/gcp13 b/gcp13[m
+[1mnew file mode 160000[m
+[1mindex 0000000..f3d4f6a[m
+[1m--- /dev/null[m
+[1m+++ b/gcp13[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mSubproject commit f3d4f6a722659bd7801224772e6dd53213321bf3[m
+[1mdiff --git a/index.html b/index.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..b52c89c[m
+[1m--- /dev/null[m
+[1m+++ b/index.html[m
+[36m@@ -0,0 +1,13 @@[m
+[32m+[m[32m<!DOCTYPE html>[m
+[32m+[m[32m<html lang="en">[m
+[32m+[m[32m<head>[m
+[32m+[m[32m    <meta charset="UTF-8">[m
+[32m+[m[32m    <meta name="viewport" content="width=[m
+[32m+[m[32m    , initial-scale=1.0">[m
+[32m+[m[32m    <title>Document</title>[m
+[32m+[m[32m</head>[m
+[32m+[m[32m<body>[m
+[32m+[m[32m    <!--this is commant-->[m
+[32m+[m[32m<h1> this is my first heading </h1>[m
+[32m+[m[32m</body>[m
+[32m+[m[32m</html>[m
+\ No newline at end of file[m

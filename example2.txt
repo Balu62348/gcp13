@@ -1,1 +1,3 @@
 hello this is my first working area
+ today 27/1/2024
+i install git
