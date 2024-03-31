@@ -1,3 +1,8 @@
 hello this is my first working area
  today 27/1/2024
-i install git
+i install git.
+i add 2 files
+and i commted"hello, git" 
+"/n hello, balu" 
+/n "hello, balu" 
+"hello, balu" 
